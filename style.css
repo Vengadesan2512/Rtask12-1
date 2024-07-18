@@ -1,0 +1,213 @@
+
+.total{
+    background: rgb(119, 116, 116);
+ 
+    
+}
+.head1{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: -1px;
+}
+.head1 h1{
+  color: rgb(197, 19, 78);
+  font-weight: bolder;
+}
+.head1 h4{
+  color: aliceblue;
+  font-weight: 800;
+}
+.div1{
+    height: 250px;
+    width: 250px;
+    background: rgb(192, 70, 13);
+      padding: 2px;
+      color: aliceblue;
+     
+}
+.div1 span:nth-child(1){
+  color: antiquewhite;
+  font-weight: 900;
+}
+.div1 span:nth-child(3){
+  color: antiquewhite;
+  font-weight: 800;
+}
+.div2{
+      height: 250px;
+    width: 250px;
+    background: rgb(53, 185, 236);
+   color: aliceblue;
+      padding: 2px;
+}
+.div2 span:nth-child(1){
+   color: antiquewhite;
+  font-weight: 900;
+}
+.div2 span:nth-child(3){
+   color: antiquewhite;
+  font-weight: 800;
+}
+.contain1{
+    margin: 5rem;
+    display: flex;
+    flex-direction: row;
+    place-items: center;
+    place-content: center;
+    text-align: center;
+    background: rgb(119, 116, 116);
+    
+   }
+  .div3{
+     height: 250px;
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+    background: rgb(184, 50, 50);
+    color: aliceblue;
+    border-radius: 10px;
+      padding: 2px;
+  }
+ .div3-m{
+  width: 300px;
+  color: aliceblue;
+  justify-content: center;
+  align-items: center;
+ }
+  .contain2{
+     margin: 5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    place-items: center;
+    place-content: center;
+    text-align: center;
+    background: rgb(119, 116, 116);
+
+  }
+  .div4{
+      height: 300px;
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+    background: rgb(216, 46, 74);
+    color: rgb(7, 7, 7);
+    border-radius: 10px;
+      padding: 2px;
+    
+    
+  }
+  .div4-h{
+    display: flex;
+    color: aliceblue;
+    font-weight: 900;
+  }
+  .div4-p{
+    display: flex;
+    color: aliceblue;
+  }
+.contain3{
+     margin: 5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    place-items: center;
+    place-content: center;
+    text-align: center;
+    background: rgb(119, 116, 116);
+}
+.div5{
+      height: 200px;
+    width: 280px;
+    border: 1px solid black;
+    text-align: center;
+    background: rgb(207, 16, 73);
+    color: rgb(5, 5, 5);
+    border-radius: 10px;
+      padding: 2px;
+      color: aliceblue;
+}
+.div5-1{
+     height: 200px;
+    width: 280px;
+    border: 1px solid black;
+    text-align: center;
+    background: rgb(29, 187, 226);
+    color: rgb(5, 5, 5);
+    border-radius: 10px;
+      padding: 2px;
+      color: aliceblue;
+}
+.contain4{
+     margin: 5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    place-items: center;
+    place-content: center;
+    text-align: center;
+    background: rgb(119, 116, 116);
+}
+.div6{
+      height: 150px;
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+    background: rgb(101, 214, 218);
+ color: aliceblue;
+    border-radius: 10px;
+      padding: 2px;
+}
+.contain5{
+     margin: 5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    place-items: center;
+    place-content: center;
+    text-align: center;
+    background: rgb(119, 116, 116);
+}
+.div7{
+    height: 150px;
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+    background: rgb(216, 123, 35);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 2px;
+}
+.contain6{
+      margin: 5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    place-items: center;
+    place-content: center;
+    text-align: center;
+    background: rgb(119, 116, 116);
+}
+.div8{
+      height: 260px;
+    width: 280px;
+    border: 1px solid black;
+    text-align: center;
+    background: rgb(65, 224, 216);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+      padding: 2px;
+}
+.contain7{
+       margin: 5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    place-items: center;
+    place-content: center;
+    text-align: center;
+    background: rgb(119, 116, 116);
+}
